@@ -5,11 +5,11 @@
 	"author": {
 		"name": "clr",
 		"email": "15035291867@163.com",
-		"url": "https://github.com/pany-ang"
+		"url": "https://github.com/clr1235/v3-admin"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/un-pany/v3-admin-vite.git"
+		"url": "https://github.com/clr1235/v3-admin.git"
 	},
 	"type": "module",
 	"scripts": {
